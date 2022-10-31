@@ -16,15 +16,15 @@ A [MURAL template](https://app.mural.co/t/dwpdigital7412/m/dwpdigital7412/165961
 7. Paste the components into your MURAL board (CMD/CTRL + V)
 8. Complete! Now you have editable components to map out your service
 
-## See version in MURAL
-
-[View this file in MURAL](https://app.mural.co/t/dwpdigital7412/m/dwpdigital7412/1659616317884/b2e6ecb0cc0a240f70ccb96a8c7fa7583c307f57?sender=u0c01283ea463969a62998846)
-
 ## Journey map example
 
 ![Preview screenshot of the MURAL file](MURAL_example_journey_map.png)
 
 Also included in this MURAL document is an example of how journey maps have been created using these GOV UK Design System prototype assets. Please check the key at the bottom to see how we have documented page IDs (internally used to differentiate pages), Page Titles and URLs. 
+
+## See document in MURAL
+
+[View this file in MURAL](https://app.mural.co/t/dwpdigital7412/m/dwpdigital7412/1659616317884/b2e6ecb0cc0a240f70ccb96a8c7fa7583c307f57?sender=u0c01283ea463969a62998846)
 
 ## Credit
 
